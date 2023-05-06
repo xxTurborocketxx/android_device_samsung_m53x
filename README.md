@@ -1,4 +1,4 @@
-# Android device tree for samsung SM-M536B (m53x)
+# Recovery device tree for samsung SM-M536B (m53x)
 
 ```
 #
